@@ -7,7 +7,7 @@
 
 <br>
 
-- 🛠️ Currently **working on [my portfolio website](https:/www.danadavis.dev)** and usually polishing off some exciting project, which I will be sharing with you shortly.
+- 🛠️ Currently **working on <a href="https://www.danadavis.dev" target="_blank">my portfolio</a>** and usually polishing off some exciting project, which I will be sharing with you shortly.
 
 - 👷🏼‍♀️ **Open to offers** and currently **looking for an internship / job opportunity**. Fully eligible to live and work in the US.
 
