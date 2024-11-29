@@ -1,7 +1,7 @@
 
 ### Hi 👋, I'm Dana.
 ### Passionate about modern Web Dev 👨‍💻
-#### I feel most confident with Node.js and React (including NEXT.js) ⌨️
+#### I feel most confident with Node.js and NEXT.js ⌨️
 #### Thank you for visiting my repos, have a great day! 🤗
 
 
