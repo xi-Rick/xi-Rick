@@ -1,6 +1,6 @@
 
 ### Hi 👋, I'm Dana.
-### Passionate about modern Web Dev, but also Data Science and Deep Learning. 👨‍💻
+### Passionate about modern Web Dev 👨‍💻
 #### I feel most confident with Node.js and React (including NEXT.js) ⌨️
 #### Thank you for visiting my repos, have a great day! 🤗
 
