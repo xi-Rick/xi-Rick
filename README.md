@@ -61,3 +61,6 @@
   <a href="https://www.buymeacoffee.com/danadavis"> 
     <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="danadavis" />
   </a>
+<a href="https://www.patreon.com/yourusername" target="_blank" style="display: inline-block; padding: 10px 20px; background-color: #FF424D; color: white; text-align: center; text-decoration: none; border-radius: 5px; font-weight: bold;">
+  <img src="https://d3.harvard.edu/platform-digit/wp-content/uploads/sites/2/2021/03/patreon_logo-800x200.png" alt="Patreon Logo" height="50" width="210">
+</a>
