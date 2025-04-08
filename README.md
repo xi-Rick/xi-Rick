@@ -52,7 +52,7 @@
 </p>
 
 <br>
-<a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=xi-Rick" alt="GitHub Streak" /></a>
+[![GitHub Streak](https://streak-stats.demolab.com/?user=xi-rick)](https://git.io/streak-stats)
 <br>
 
 #### If you found anything here useful, consider buying me a coffee ☕. <br>
