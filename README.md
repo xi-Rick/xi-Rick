@@ -51,9 +51,6 @@
   <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" />
 </p>
 
-<br>
-[![GitHub Streak](https://streak-stats.demolab.com/?user=xi-rick)](https://git.io/streak-stats)
-<br>
 
 #### If you found anything here useful, consider buying me a coffee ☕. <br>
 ### Thank you :)
