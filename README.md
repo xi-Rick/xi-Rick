@@ -1,6 +1,6 @@
 
 ### Hi 👋, I'm Dana.
-### Passionate about modern Web Dev 👨‍💻
+### Passionate about modern Web Development 👨‍💻
 #### I feel most confident with Node.js and NEXT.js ⌨️
 #### Thank you for visiting my repos, have a great day! 🤗
 
