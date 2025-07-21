@@ -6,7 +6,7 @@
 ```ascii
 ╔═══════════════════════════════════════════════════════════╗
 ║  💫 Crafting exceptional web experiences with modern tech ║
-║  🎯 Building tomorrow's digital solutions today          ║
+║  🎯 Building tomorrow's digital solutions today           ║
 ╚═══════════════════════════════════════════════════════════╝
 ```
 </div>
