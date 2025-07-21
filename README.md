@@ -120,11 +120,11 @@ graph LR
 
 ### ☕ **Support My Work**
 <a href="https://www.buymeacoffee.com/danadavis" target="_blank">
-  <img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me A Coffee" height="60" width="217">
+  <img src="https://img.shields.io/badge/Buy_Me_A_Coffee-FFDD00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black" alt="Buy Me A Coffee" height="40">
 </a>
 &nbsp;&nbsp;
 <a href="https://www.patreon.com/danadavisdev" target="_blank">
-  <img src="https://img.shields.io/badge/Patreon-F96854?style=for-the-badge&logo=patreon&logoColor=white" alt="Support on Patreon" height="60">
+  <img src="https://img.shields.io/badge/Patreon-F96854?style=for-the-badge&logo=patreon&logoColor=white" alt="Support on Patreon" height="40">
 </a>
 
 </div>
