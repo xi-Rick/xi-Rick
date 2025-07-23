@@ -1,14 +1,9 @@
 <div align="center">
 
-# **Hi 👋, I'm Dana.**
+# <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px" height="30px" /> Hi, I'm Dana
+
 ### *Full-Stack Developer • Digital Architect • Code Artist*
 
-```ascii
-╔═══════════════════════════════════════════════════════════════╗
-║  💫 Crafting exceptional web experiences with modern tech     ║
-║  🎯 Building tomorrow's digital solutions today               ║
-╚═══════════════════════════════════════════════════════════════╝
-```
 </div>
 
 <div align="center">
@@ -18,8 +13,42 @@
 </div>
 
 ---
+## <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="40"> **WHAT I BRING TO THE TABLE**
 
-## 🚀 **Current Mission**
+<table>
+<tr>
+<td width="50%">
+
+<img src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" width="300" align="right"/>
+
+### 🎯 **My Superpowers**
+
+- **🔥 Full-Stack Development** - From pixels to databases
+- **🧠 Problem Solving** - Love turning complex challenges into simple solutions  
+- **⚡ Fast Learner** - Always adapting to new technologies
+- **🤝 Team Player** - Great software is built by great teams
+- **🎨 Creative Coder** - Making functional beautiful
+
+</td>
+<td width="50%">
+
+### 📊 **Current Activities**
+
+```text
+🔭 Building full-stack applications
+🌱 Learning advanced cloud architectures  
+👯 Open to collaboration on innovative projects
+🤔 Exploring AI/ML integration in web apps
+💬 Ask me about React, Node.js, or Python
+📫 Reach me at dana@danadavis.dev
+⚡ Fun fact: I debug better with music on 🎵
+```
+
+</td>
+</tr>
+</table>
+
+## <img src="https://media.giphy.com/media/26tn33aiTi1jkl6H6/giphy.gif" width="40">  **Current Mission**
 
 ```javascript
 const dana = {
@@ -35,7 +64,7 @@ console.log(`${dana.status} - Let's build something amazing together! 🚀`);
 
 ---
 
-## ⚡ **Tech Arsenal**
+## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="25"> **Tech Arsenal**
 
 <details>
 <summary>🎨 <strong>Frontend Wizardry</strong></summary>
@@ -75,7 +104,7 @@ console.log(`${dana.status} - Let's build something amazing together! 🚀`);
 
 ---
 
-## 📊 **GitHub Analytics**
+## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px">&nbsp; **GitHub Analytics**
 
 <div align="center">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=xi-Rick&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0d1117&icon_color=00d9ff&text_color=c9d1d9&title_color=00d9ff"/>
@@ -90,7 +119,7 @@ console.log(`${dana.status} - Let's build something amazing together! 🚀`);
 
 ---
 
-## 🎯 **Featured Projects**
+## <img src="https://media.giphy.com/media/26tn33aiTi1jkl6H6/giphy.gif" width="40">  **Featured Projects**
 
 ```mermaid
 graph LR
@@ -109,7 +138,7 @@ graph LR
 
 ---
 
-## 🌐 **Let's Connect**
+## <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="40"> **Let's Connect**
 
 <div align="center">
 
@@ -130,18 +159,29 @@ graph LR
 </div>
 
 ---
+---
 
 <div align="center">
 
-```ascii
-╔══════════════════════════════════════════════════════════════╗
-║ Code is poetry written in logic, crafted with passion       ║
-║                         - Dana Davis                        ║
-╚══════════════════════════════════════════════════════════════╝
+<!-- The workspace never sleeps -->
+<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=300&size=14&duration=2000&pause=8000&color=666666&center=true&vCenter=true&width=800&lines=dana%40localhost%3A~%2Fprojects%24+git+status;On+branch+main;Your+branch+is+ahead+of+'origin%2Fmain'+by+3+commits;nothing+to+commit%2C+working+tree+clean;dana%40localhost%3A~%2Fprojects%24+npm+run+tomorrow"/>
+
+```javascript
+// dana-davis.dev/thoughts/latest-commit.js
+const rightNow = new Date();
+const mood = rightNow.getHours() > 22 ? 'inspired' : 'caffeinated';
+const nextIdea = await brain.process(yourVisit);
+
+console.log(`💡 ${nextIdea} sparked by your visit`);
+// TODO: Turn this into something amazing together
 ```
 
-**⭐ If you find my work interesting, consider giving it a star!**
+<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=600&size=18&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&width=600&lines=const+future+%3D+us+%2B+code%3B;// Press+⭐+to+continue..."/>
 
-![Profile Views](https://komarev.com/ghpvc/?username=xi-Rick&color=00d9ff&style=flat-square&label=Profile+Views)
+<img src="https://capsule-render.vercel.app/api?type=slice&color=gradient&customColorList=0,2,6,11,20&height=40&section=footer"/>
+
+*2:47 AM • Still coding • Music: On • Coffee: Empty • Ideas: Endless*
+
+![Profile Views](https://komarev.com/ghpvc/?username=xi-Rick&color=00d9ff&style=flat-square&label=Late+Night+Visitors)
 
 </div>
