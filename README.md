@@ -19,7 +19,7 @@
 <tr>
 <td width="50%">
 
-<img src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" width="300" align="right"/>
+<img src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" width="275" align="right"/>
 
 ### 🎯 **My Superpowers**
 
@@ -158,7 +158,6 @@ graph LR
 
 </div>
 
----
 ---
 
 <div align="center">
