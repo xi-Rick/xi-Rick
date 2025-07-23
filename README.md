@@ -15,15 +15,15 @@
 ---
 ## <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="40"> **WHAT I BRING TO THE TABLE**
 
+<div align="center">
 <table>
 <tr>
-<td width="50%">
-
-<div align="right">
+<div align="center">
   <img src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" 
-       style="width: min(275px, 100%); height: auto; max-width: 100%;" 
-       width="275"/>
+       style="width: min(300px, 100%); height: auto; max-width: 100%;" 
+       width="300"/>
 </div>
+<td width="50%" valign="top">
 
 ### 🎯 **My Superpowers**
 
@@ -34,7 +34,7 @@
 - **🎨 Creative Coder** - Making functional beautiful
 
 </td>
-<td width="50%">
+<td width="50%" valign="top">
 
 ### 📊 **Current Activities**
 
@@ -51,6 +51,8 @@
 </td>
 </tr>
 </table>
+</div>
+
 
 ## <img src="https://media.giphy.com/media/26tn33aiTi1jkl6H6/giphy.gif" width="40">  **Current Mission**
 
