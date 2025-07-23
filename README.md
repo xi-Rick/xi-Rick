@@ -19,7 +19,11 @@
 <tr>
 <td width="50%">
 
-<img src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" width="275" align="right"/>
+<div align="right">
+  <img src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" 
+       style="width: min(275px, 100%); height: auto; max-width: 100%;" 
+       width="275"/>
+</div>
 
 ### 🎯 **My Superpowers**
 
@@ -163,7 +167,7 @@ graph LR
 <div align="center">
 
 <!-- The workspace never sleeps -->
-<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=300&size=14&duration=2000&pause=8000&color=666666&center=true&vCenter=true&width=800&lines=dana%40localhost%3A~%2Fprojects%24+git+status;On+branch+main;Your+branch+is+ahead+of+'origin%2Fmain'+by+3+commits;nothing+to+commit%2C+working+tree+clean;dana%40localhost%3A~%2Fprojects%24+npm+run+tomorrow"/>
+<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=300&size=14&duration=2000&pause=8000&color=666666&center=true&vCenter=true&width=800&lines=dana%40localhost%3A~%2Fprojects%24+git+status;On+branch+main;Your+branch+is+ahead+of+origin+main+by+3+commits;nothing+to+commit%2C+working+tree+clean;dana%40localhost%3A~%2Fprojects%24+npm+run+tomorrow"/>
 
 ```javascript
 // dana-davis.dev/thoughts/latest-commit.js
@@ -175,7 +179,7 @@ console.log(`💡 ${nextIdea} sparked by your visit`);
 // TODO: Turn this into something amazing together
 ```
 
-<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=600&size=18&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&width=600&lines=const+future+%3D+us+%2B+code%3B;// Press+⭐+to+continue..."/>
+<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=600&size=18&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&width=600&lines=Building+the+future+with+code;Thanks+for+visiting!;Press+⭐+to+continue"/>
 
 <img src="https://capsule-render.vercel.app/api?type=slice&color=gradient&customColorList=0,2,6,11,20&height=40&section=footer"/>
 
