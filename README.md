@@ -162,9 +162,9 @@ console.log(`${dana.status} - Let's build something amazing together! 🚀`);
   </div>
 
   <div style="flex: 1 1 45%; min-width: 300px; border: 1px solid #30363d; padding: 20px; border-radius: 8px;">
-    <h3>🏰 <strong><a href="https://www.rickscitadel.com" target="_blank" rel="noopener noreferrer">Rick's Citadel</a></strong></h3>
+    <h3>🏰 <strong><a href="https://citadel.vercel.app" target="_blank" rel="noopener noreferrer">Rick's Citadel</a></strong></h3>
     <div align="center">
-      <a href="https://www.rickscitadel.com" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/Live_Demo-4285F4?style=for-the-badge&logo=external-link&logoColor=white" alt="Live Demo" /></a>
+      <a href="https://citadel.vercel.app" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/Live_Demo-4285F4?style=for-the-badge&logo=external-link&logoColor=white" alt="Live Demo" /></a>
       <a href="https://github.com/xi-Rick/citadel" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/Source_Code-34A853?style=for-the-badge&logo=github&logoColor=white" alt="Source Code" /></a>
     </div>
     <ul>
