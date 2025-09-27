@@ -266,20 +266,6 @@ console.log(`${dana.status} - Let's build something amazing together! 🚀`);
 
 ---
 
-## 💫 **Fun Facts & Interests**
-
-<div style="background: linear-gradient(45deg, #ff6b6b20, #4ecdc420, #45b7d120, #96ceb420); padding: 20px; border-radius: 15px; margin: 20px 0;">
-
-🎵 **Music-Powered Coding** - My best debugging happens with headphones on  
-🌱 **Always Learning** - Currently exploring advanced cloud architectures  
-🤖 **AI Enthusiast** - Fascinated by the intersection of AI and web development  
-☕ **Coffee Connoisseur** - Fueling innovation one cup at a time  
-🎯 **Problem Solver** - Love turning "impossible" into "innovative"
-
-</div>
-
----
-
 ## <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="40"> **Let's Connect**
 
 <div align="center">
