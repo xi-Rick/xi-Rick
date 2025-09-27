@@ -240,6 +240,24 @@ console.log(`${dana.status} - Let's build something amazing together! 🚀`);
     </ul>
     <p><strong>Tech Stack:</strong> <code>Next.js</code> <code>Framer Motion</code> <code>Capacitor</code> <code>PWA</code> <code>TypeScript</code></p>
   </div>
+  
+  <div style="flex: 1 1 45%; min-width: 300px; border: 1px solid #30363d; padding: 20px; border-radius: 8px;">
+    <h3>🎮 <strong><a href="https://steaminsight.vercel.app/" target="_blank" rel="noopener noreferrer">Steam Insight</a></strong></h3>
+    <div align="center">
+      <a href="https://steaminsight.vercel.app/" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/Live_Demo-4285F4?style=for-the-badge&logo=external-link&logoColor=white" alt="Live Demo" /></a>
+      <a href="https://github.com/xi-Rick/steam-insight" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/Source_Code-34A853?style=for-the-badge&logo=github&logoColor=white" alt="Source Code" /></a>
+    </div>
+    <ul>
+      <li><strong>Modern Steam game discovery & review platform</strong> with advanced search and analytics</li>
+      <li>Rich media galleries: video trailers, screenshots, and more</li>
+      <li>Smart ratings: Metacritic + Steam data</li>
+      <li>Unique, shareable review IDs and individual review pages</li>
+      <li>Trending, popular, and top-rated game collections</li>
+      <li>Responsive, mobile-friendly design</li>
+      <li>Fast loading with intelligent caching and optimization</li>
+    </ul>
+    <p><strong>Tech Stack:</strong> <code>Next.js 14</code> <code>TypeScript</code> <code>Tailwind CSS</code> <code>shadcn/ui</code> <code>Steam API</code> <code>SWR</code> <code>Lucide React</code> <code>Vercel</code></p>
+  </div>
 
 </div>
 
