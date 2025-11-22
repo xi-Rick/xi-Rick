@@ -19,7 +19,8 @@ const dana = {
     location: "United States 🇺🇸",
     status: "Open to opportunities",
     focus: ["Full-Stack Development", "Data Science", "AI/ML"],
-    funFact: "I debug better with music on 🎵"
+    funFact: "I debug better with music on 🎵",
+    operationalTime: "tree"
 };
 ```
 
@@ -78,7 +79,6 @@ const dana = {
 **Civic Engagement Platform**
 
 [![Live](https://img.shields.io/badge/Live-FF6B35?style=flat-square&logo=vercel&logoColor=000000)](https://ivotewise.com)
-[![Code](https://img.shields.io/badge/Code-2EC866?style=flat-square&logo=github&logoColor=000000)](https://github.com/xi-Rick/votewise)
 
 Track representatives' voting records and campaign finance with Congress.gov & OpenFEC APIs.
 
@@ -91,7 +91,6 @@ Track representatives' voting records and campaign finance with Congress.gov & O
 **Corporate Transparency Tool**
 
 [![Live](https://img.shields.io/badge/Live-FF6B35?style=flat-square&logo=vercel&logoColor=000000)](https://breakthewall.us)
-[![Code](https://img.shields.io/badge/Code-2EC866?style=flat-square&logo=github&logoColor=000000)](https://github.com/xi-Rick/breakthewall)
 
 SEC EDGAR integration exposing corporate hierarchies and executive compensation.
 
@@ -118,7 +117,6 @@ One Piece × Star Trek inspired voice transcription app using OpenAI Whisper wit
 **Game Discovery Platform**
 
 [![Live](https://img.shields.io/badge/Live-FF6B35?style=flat-square&logo=vercel&logoColor=000000)](https://steaminsight.vercel.app/)
-[![Code](https://img.shields.io/badge/Code-2EC866?style=flat-square&logo=github&logoColor=000000)](https://github.com/xi-Rick/steam-insight)
 
 Advanced game search, reviews, and analytics with Steam API integration.
 
@@ -133,7 +131,6 @@ Advanced game search, reviews, and analytics with Steam API integration.
 **RESTful Mythology Database**
 
 [![Live](https://img.shields.io/badge/Live-FF6B35?style=flat-square&logo=vercel&logoColor=000000)](https://thegreekmythapi.vercel.app)
-[![Code](https://img.shields.io/badge/Code-2EC866?style=flat-square&logo=github&logoColor=000000)](https://github.com/xi-Rick/the-greek-myth-api)
 
 200+ entries of gods, titans, monsters, and heroes with documented endpoints.
 
@@ -145,7 +142,7 @@ Advanced game search, reviews, and analytics with Steam API integration.
 ### ⚡ What If Anime
 **Community Discussion Platform**
 
-[![Code](https://img.shields.io/badge/Code-2EC866?style=flat-square&logo=github&logoColor=000000)](https://github.com/xi-Rick/what-if-anime)
+[![Live](https://img.shields.io/badge/Live-FF6B35?style=flat-square&logo=vercel&logoColor=000000)](https://whatifanime.vercel.app/)
 
 Create, vote, and discuss alternative anime storylines and character arcs.
 
@@ -160,7 +157,6 @@ Create, vote, and discuss alternative anime storylines and character arcs.
 **Card Matching Game**
 
 [![Live](https://img.shields.io/badge/Live-FF6B35?style=flat-square&logo=vercel&logoColor=000000)](https://www.marginmatch.app)
-[![Code](https://img.shields.io/badge/Code-2EC866?style=flat-square&logo=github&logoColor=000000)](https://github.com/xi-Rick/margin-match)
 
 Mobile-first PWA with smooth animations. Native Android support via Capacitor.
 
@@ -172,7 +168,7 @@ Mobile-first PWA with smooth animations. Native Android support via Capacitor.
 ### 🐧 Dev Environment Scripts
 **Linux Setup Automation**
 
-[![Code](https://img.shields.io/badge/Code-2EC866?style=flat-square&logo=github&logoColor=000000)](https://github.com/xi-Rick/dev-setup)
+[![Code](https://img.shields.io/badge/Code-2EC866?style=flat-square&logo=github&logoColor=000000)](https://github.com/xi-Rick/devsetup)
 
 Transform any Linux distro into a web dev powerhouse. Supports Arch, Ubuntu, Fedora, openSUSE.
 
