@@ -2,7 +2,7 @@
 
 # <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px" height="30px" /> Hey, I'm Dana
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=16&pause=1000&color=FF6B35&center=true&vCenter=true&width=440&lines=Full-Stack+Developer;Next.js+%7C+TypeScript+%7C+Node.js;Always+Learning%2C+Always+Shipping)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=16&pause=1000&color=FF6B35&center=true&vCenter=true&width=440&lines=Full-Stack+Developer;Next.js+%7C+TypeScript+%7C+Node.js;Always+Learning%2C+Always+Building)](https://git.io/typing-svg)
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-FF6B35?style=flat-square&logo=google-chrome&logoColor=000000)](https://danadavis.dev)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-2EC866?style=flat-square&logo=linkedin&logoColor=000000)](https://www.linkedin.com/in/dana-davis-a5b102254/)
@@ -30,6 +30,7 @@ Full-stack developer based in the US. I build civic tech, data tools, and web ap
 
 | Project | Description | Stack |
 |---|---|---|
+| [LinuxSwitch](https://linuxswitch.us) | Windows-to-Linux migration guide — distros, desktop environments, ricing & more | Zola, Ametrine |
 | [VoteWise](https://ivotewise.com) | Track representatives' voting records & campaign finance | Next.js 15, Prisma, PostgreSQL |
 | [Break the Wall](https://breakthewall.us) | Corporate hierarchies & exec compensation via SEC EDGAR | Next.js 14, D3.js, Recharts |
 | [Captain's Log](https://github.com/xi-Rick/captains-log) | Voice transcription PWA with AI summarization | Next.js, OpenAI, TypeScript |
