@@ -1,56 +1,118 @@
 <div align="center">
 
-# <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px" height="30px" /> Hey, I'm Dana
+<img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="32px" height="32px" />
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=16&pause=1000&color=FF6B35&center=true&vCenter=true&width=440&lines=Full-Stack+Developer;Next.js+%7C+TypeScript+%7C+Node.js;Always+Learning%2C+Always+Building)](https://git.io/typing-svg)
+# Dana Davis
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-FF6B35?style=flat-square&logo=google-chrome&logoColor=000000)](https://danadavis.dev)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-2EC866?style=flat-square&logo=linkedin&logoColor=000000)](https://www.linkedin.com/in/dana-davis-a5b102254/)
-[![Email](https://img.shields.io/badge/Email-555555?style=flat-square&logo=gmail&logoColor=FF6B35)](mailto:dana@danadavis.dev)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=18&pause=1000&color=7C3AED&center=true&vCenter=true&width=460&lines=Full-Stack+Developer;Next.js+%7C+TypeScript+%7C+Node.js;Always+Learning%2C+Always+Building)](https://git.io/typing-svg)
+
+<br/>
+
+[![Portfolio](https://img.shields.io/badge/PORTFOLIO-7C3AED?style=for-the-badge&logo=google-chrome&logoColor=white)](https://danadavis.dev)
+[![LinkedIn](https://img.shields.io/badge/LINKEDIN-0EA5A5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/dana-davis-a5b102254/)
+[![Email](https://img.shields.io/badge/EMAIL-1A1A2E?style=for-the-badge&logo=gmail&logoColor=7C3AED)](mailto:dana@danadavis.dev)
 
 </div>
 
----
+<br/>
+
+<div align="center">
+  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.gif" width="100%" height="4px"/>
+</div>
+
+<br/>
+
+<table align="center" border="0">
+<tr>
+<td>
 
 Full-stack developer based in the US. I build civic tech, data tools, and web apps — mostly with Next.js, TypeScript, and whatever database fits the job. Open to opportunities.
 
----
+</td>
+</tr>
+</table>
 
-## Stack
+<br/>
+
+## &nbsp;🧩&nbsp; Stack
 
 <p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=ts,react,nextjs,nodejs,python,postgres,mongodb,prisma,docker,aws&theme=dark" />
-  </a>
+  <img src="https://skillicons.dev/icons?i=ts,js,react,nextjs,nodejs,python&theme=dark" />
+</p>
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=postgres,mongodb,prisma,redis,docker,aws&theme=dark" />
+</p>
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=git,github,figma,vscode,linux,vite&theme=dark" />
 </p>
 
----
-
-## Projects
-
-| Project | Description | Stack |
-|---|---|---|
-| [LinuxSwitch](https://linuxswitch.us) | Windows-to-Linux migration guide — distros, desktop environments, ricing & more | Zola, Ametrine |
-| [VoteWise](https://ivotewise.com) | Track representatives' voting records & campaign finance | Next.js 15, Prisma, PostgreSQL |
-| [Break the Wall](https://breakthewall.us) | Corporate hierarchies & exec compensation via SEC EDGAR | Next.js 14, D3.js, Recharts |
-| [Captain's Log](https://github.com/xi-Rick/captains-log) | Voice transcription PWA with AI summarization | Next.js, OpenAI, TypeScript |
-| [Steam Insight](https://steaminsight.vercel.app/) | Game search & analytics with Steam API | Next.js 14, SWR, TypeScript |
-| [Greek Myth API](https://thegreekmythapi.vercel.app) | RESTful mythology database — 200+ entries | Node.js, Express, MongoDB |
-| [Margin Match](https://www.marginmatch.app) | Mobile-first card game with native Android support | Next.js, Framer Motion, Capacitor |
-
----
-
-## Stats
+<br/>
 
 <div align="center">
-  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=xi-Rick&show_icons=true&hide_border=true&bg_color=000000&title_color=FF6B35&text_color=FFFFFF&icon_color=2EC866&ring_color=FF6B35&hide=contribs"/>
-  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=xi-Rick&layout=compact&langs_count=6&hide_border=true&bg_color=000000&title_color=FF6B35&text_color=FFFFFF"/>
+  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.gif" width="100%" height="4px"/>
 </div>
 
----
+<br/>
+
+## &nbsp;🚀&nbsp; Projects
 
 <div align="center">
 
-![Profile Views](https://komarev.com/ghpvc/?username=xi-Rick&color=FF6B35&style=flat-square&label=views)
+<table>
+  <tr>
+    <th align="left">Project</th>
+    <th align="left">Description</th>
+    <th align="left">Stack</th>
+  </tr>
+  <tr>
+    <td><a href="https://linuxswitch.us"><b>LinuxSwitch</b></a></td>
+    <td>Windows-to-Linux migration guide — distros, desktop environments, ricing & more</td>
+    <td><code>Zola</code> <code>Ametrine</code></td>
+  </tr>
+    <tr>
+    <td><a href="https://thegreekmythapi.vercel.app"><b>Greek Myth API</b></a></td>
+    <td>RESTful mythology database — 200+ entries</td>
+    <td><code>Next.js</code> <code>Express</code> <code>MongoDB</code></td>
+  </tr>
+  <tr>
+    <td><a href="https://ivotewise.com"><b>VoteWise</b></a></td>
+    <td>Track representatives' voting records & campaign finance</td>
+    <td><code>Next.js</code> <code>Prisma</code> <code>PostgreSQL</code></td>
+  </tr>
+  <tr>
+    <td><a href="https://breakthewall.us"><b>Break the Wall</b></a></td>
+    <td>Corporate hierarchies & exec compensation via SEC EDGAR</td>
+    <td><code>Next.js</code> <code>D3.js</code> <code>Recharts</code></td>
+  </tr>
+  <tr>
+    <td><a href="https://github.com/xi-Rick/captains-log"><b>Captain's Log</b></a></td>
+    <td>Voice transcription PWA with AI summarization</td>
+    <td><code>Next.js</code> <code>OpenAI</code> <code>TypeScript</code></td>
+  </tr>
+  <tr>
+    <td><a href="https://steaminsight.vercel.app/"><b>Steam Insight</b></a></td>
+    <td>Game search & analytics with Steam API</td>
+    <td><code>Next.js</code> <code>SWR</code> <code>TypeScript</code></td>
+  </tr>
+  <tr>
+    <td><a href="https://www.marginmatch.app"><b>Margin Match</b></a></td>
+    <td>Mobile-first card game with native Android support</td>
+    <td><code>Next.js</code> <code>Framer Motion</code> <code>Capacitor</code></td>
+  </tr>
+</table>
+
+</div>
+
+<br/>
+
+<div align="center">
+  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.gif" width="100%" height="4px"/>
+</div>
+
+<br/>
+
+<div align="center">
+
+![Profile Views](https://komarev.com/ghpvc/?username=xi-Rick&color=7C3AED&style=for-the-badge&label=PROFILE+VIEWS)
 
 </div>
