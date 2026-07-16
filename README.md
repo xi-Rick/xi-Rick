@@ -1,8 +1,6 @@
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="32px" height="32px" />
-
-# Dana Davis
+# <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px" height="30px" /> Hey, I'm Dana
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=18&pause=1000&color=7C3AED&center=true&vCenter=true&width=460&lines=Full-Stack+Developer;Next.js+%7C+TypeScript+%7C+Node.js;Always+Learning%2C+Always+Building)](https://git.io/typing-svg)
 
@@ -69,20 +67,15 @@ Full-stack developer based in the US. I build civic tech, data tools, and web ap
     <td>Windows-to-Linux migration guide — distros, desktop environments, ricing & more</td>
     <td><code>Zola</code> <code>Ametrine</code></td>
   </tr>
-    <tr>
-    <td><a href="https://thegreekmythapi.vercel.app"><b>Greek Myth API</b></a></td>
-    <td>RESTful mythology database — 200+ entries</td>
-    <td><code>Next.js</code> <code>Express</code> <code>MongoDB</code></td>
-  </tr>
   <tr>
     <td><a href="https://ivotewise.com"><b>VoteWise</b></a></td>
     <td>Track representatives' voting records & campaign finance</td>
-    <td><code>Next.js</code> <code>Prisma</code> <code>PostgreSQL</code></td>
+    <td><code>Next.js 15</code> <code>Prisma</code> <code>PostgreSQL</code></td>
   </tr>
   <tr>
     <td><a href="https://breakthewall.us"><b>Break the Wall</b></a></td>
     <td>Corporate hierarchies & exec compensation via SEC EDGAR</td>
-    <td><code>Next.js</code> <code>D3.js</code> <code>Recharts</code></td>
+    <td><code>Next.js 14</code> <code>D3.js</code> <code>Recharts</code></td>
   </tr>
   <tr>
     <td><a href="https://github.com/xi-Rick/captains-log"><b>Captain's Log</b></a></td>
@@ -92,7 +85,12 @@ Full-stack developer based in the US. I build civic tech, data tools, and web ap
   <tr>
     <td><a href="https://steaminsight.vercel.app/"><b>Steam Insight</b></a></td>
     <td>Game search & analytics with Steam API</td>
-    <td><code>Next.js</code> <code>SWR</code> <code>TypeScript</code></td>
+    <td><code>Next.js 14</code> <code>SWR</code> <code>TypeScript</code></td>
+  </tr>
+  <tr>
+    <td><a href="https://thegreekmythapi.vercel.app"><b>Greek Myth API</b></a></td>
+    <td>RESTful mythology database — 200+ entries</td>
+    <td><code>Node.js</code> <code>Express</code> <code>MongoDB</code></td>
   </tr>
   <tr>
     <td><a href="https://www.marginmatch.app"><b>Margin Match</b></a></td>
