@@ -93,7 +93,7 @@ Full-stack developer based in the US. I build civic tech, data tools, and web ap
 
 <div align="center">
 
-<a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=xi-rick" alt="GitHub Streak" /></a>
+<a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=xi-rick&theme=midnight-purple&hide_border=true" alt="GitHub Streak" /></a>
 
 <br />
 
