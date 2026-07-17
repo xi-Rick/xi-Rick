@@ -70,12 +70,12 @@ Full-stack developer based in the US. I build civic tech, data tools, and web ap
   <tr>
     <td><a href="https://ivotewise.com"><b>VoteWise</b></a></td>
     <td>Track representatives' voting records & campaign finance</td>
-    <td><code>Next.js 15</code> <code>Prisma</code> <code>PostgreSQL</code></td>
+    <td><code>Next.js</code> <code>Prisma</code> <code>PostgreSQL</code></td>
   </tr>
   <tr>
     <td><a href="https://breakthewall.us"><b>Break the Wall</b></a></td>
     <td>Corporate hierarchies & exec compensation via SEC EDGAR</td>
-    <td><code>Next.js 14</code> <code>D3.js</code> <code>Recharts</code></td>
+    <td><code>Next.js</code> <code>D3.js</code> <code>Recharts</code></td>
   </tr>
   <tr>
     <td><a href="https://github.com/xi-Rick/captains-log"><b>Captain's Log</b></a></td>
@@ -85,12 +85,12 @@ Full-stack developer based in the US. I build civic tech, data tools, and web ap
   <tr>
     <td><a href="https://steaminsight.vercel.app/"><b>Steam Insight</b></a></td>
     <td>Game search & analytics with Steam API</td>
-    <td><code>Next.js 14</code> <code>SWR</code> <code>TypeScript</code></td>
+    <td><code>Next.js</code> <code>SWR</code> <code>TypeScript</code></td>
   </tr>
   <tr>
     <td><a href="https://thegreekmythapi.vercel.app"><b>Greek Myth API</b></a></td>
     <td>RESTful mythology database — 200+ entries</td>
-    <td><code>Node.js</code> <code>Express</code> <code>MongoDB</code></td>
+    <td><code>Next.js</code> <code>Express</code> <code>MongoDB</code></td>
   </tr>
   <tr>
     <td><a href="https://www.marginmatch.app"><b>Margin Match</b></a></td>
