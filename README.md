@@ -14,12 +14,6 @@
 
 <br/>
 
-<div align="center">
-  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.gif" width="100%" height="4px"/>
-</div>
-
-<br/>
-
 <table align="center" border="0">
 <tr>
 <td>
@@ -43,12 +37,6 @@ Full-stack developer based in the US. I build civic tech, data tools, and web ap
 <p align="center">
   <img src="https://skillicons.dev/icons?i=git,github,figma,vscode,linux,vite&theme=dark" />
 </p>
-
-<br/>
-
-<div align="center">
-  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.gif" width="100%" height="4px"/>
-</div>
 
 <br/>
 
@@ -99,12 +87,6 @@ Full-stack developer based in the US. I build civic tech, data tools, and web ap
   </tr>
 </table>
 
-</div>
-
-<br/>
-
-<div align="center">
-  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.gif" width="100%" height="4px"/>
 </div>
 
 <br/>
