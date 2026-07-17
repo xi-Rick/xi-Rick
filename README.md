@@ -93,6 +93,12 @@ Full-stack developer based in the US. I build civic tech, data tools, and web ap
 
 <div align="center">
 
+<a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=xi-rick" alt="GitHub Streak" /></a>
+
+</div
+
+<div align="center">
+
 ![Profile Views](https://komarev.com/ghpvc/?username=xi-Rick&color=7C3AED&style=for-the-badge&label=PROFILE+VIEWS)
 
 </div>
